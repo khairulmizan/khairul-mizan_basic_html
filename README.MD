@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TIPS FOR US</title>
+</head>
+<body>
+
+<h1 style="text-align:center;">How To Save Money</h1>
+<p style="color:Blue;"><i>The first step to start saving money is to figure out how much you spend.
+Keep track of all your expenses. Once you have your data, organize the numbers by catagories, such as
+gas, groceries and mortgage, and total each amount. Use your credit card and bank statements to make 
+sure you're accurate and don't forget any.</i></p>
+<p style="color:Blue;"><i>Next is budget for savings. Once you have an idea of what you spend in a month,
+you can begin to organize your recorded expenses into a workable budget. Your budget should outline how 
+your expenses measure up to your income. So you can plan your spending and limit overspending. Be sure to 
+factor in expenses that occur regularly but not every month, such as car maintenance.  </i></p>
+<p style="color:Blue;"><i>Laastly is pick the right tools. If you’re saving for short-term goals, consider
+using these FDIC-insured deposit accounts. For examples saving account, FDIC-insured individual retirement 
+accounts (IRAs), which are tax-efficient savings accounts</i></p>
+<p style="text-align:center;"><b>The conclusion is we need to always be frugal in spending and make savings 
+carefully. This is for the good in the future as well as during emergencies..</b></p>
+
+</body>
+</html>
